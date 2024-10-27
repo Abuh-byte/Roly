@@ -1,6 +1,6 @@
 function redirectAfter4Seconds() {
   setTimeout(() => {
-    window.location.href = "/linguagens/index.html";
+    window.location.href = "index.html";
 }, 4000);
 }
 
